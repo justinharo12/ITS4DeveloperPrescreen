@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IACounties": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
